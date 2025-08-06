@@ -16,15 +16,19 @@
 ![](screenshots/task1/task1_1.png)
 
 **Результат .JS:**
+
 ![](screenshots/task1/task1_JS.png)
 
 **Результат .D.TS:**
+
 ![](screenshots/task1/task1_DTS.png)
 
 **Результат Errors:**
+
 ![](screenshots/task1/task1_Error.png)
 
 **Результат Logs:**
+
 ![](screenshots/task1/task1_Logs.png)
 
 ## Завдання 2: Інтерфейси
@@ -105,4 +109,5 @@ TypeScript Playground правильно виявляє помилки та ві
 **Приклад помилки:**
 
 printPerson({ name: "Bob", age: "25" }); // age очікується як number, а передано string
+
 
